@@ -1,0 +1,19 @@
+.input-contanier {
+    font-size: 1em;
+    margin: 20px 0;
+}
+
+.input-label {
+    margin-right: 10px;
+}
+
+.input-text {
+    font-size: 1em;
+    border: 1px solid #ccc
+}
+
+.input-error {
+    padding-top: 5px;
+    font-size: 0.8em;
+    color: #f91414;
+}
